@@ -1,5 +1,5 @@
 {
-    "name": "verifymycontent/video-moderation",
+    "name": "ltidev/video-moderation",
     "description": "Content Moderation SDK",
     "type": "library",
     "license": "MIT",
